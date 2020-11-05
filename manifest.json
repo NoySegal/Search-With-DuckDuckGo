@@ -17,8 +17,6 @@
         "default_popup": "popup.html"
     },
     "permissions": [
-        "contextMenus",
-        "https://www.google.com/*",
-        "https://www.duckduckgo.com/*"
+        "contextMenus"
     ]
 }
