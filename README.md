@@ -14,3 +14,6 @@ Give it a try now and see the advantages for yourself.
 
 ### Chrome extension URL:
 https://chrome.google.com/webstore/detail/search-with-duckduckgo/amkahembcklobdkoaaepgfpmdnobmdkh?hl=en
+
+### Donations
+If this project helps you, you can support it by buying my book: https://www.amazon.com/dp/B08DN58X4X
